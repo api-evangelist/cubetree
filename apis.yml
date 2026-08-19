@@ -31,7 +31,7 @@ x-status: defunct
 x-status-reason: acquired-by-successfactors-2010-absorbed-into-sap
 x-acquired-by: successfactors
 x-successor: sap-successfactors
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
