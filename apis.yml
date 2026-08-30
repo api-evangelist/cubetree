@@ -74,3 +74,9 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/successfactors/
+  name: SuccessFactors
+  x-relationship: acquired
+  x-evidence: "It was acquired by SuccessFactors in 2010 (deal valued up to $50M) and folded into the SuccessFactors Business Alignment suite; SAP subsequently acquired SuccessFactors in 2012 and the product was absorbed into SAP SuccessFactors / SAP Jam."
